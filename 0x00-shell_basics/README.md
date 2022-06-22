@@ -5,3 +5,4 @@ script to list contents of a file in long format
 script to list contents of a file including hidden files in long format
 script to list contents of a file in long format including hidden files and numeric user and group ids
 script to create directory in tmp
+script to move betty to new directory
