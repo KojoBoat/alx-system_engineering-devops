@@ -11,3 +11,4 @@ script to remove directory
 move back to previous directory
 list contents of current, parent and the /boor directories
 check file type
+create symbolic link to /bin/ls
