@@ -8,3 +8,4 @@ script to create directory in tmp
 script to move betty to new directory
 script to remove betty file
 script to remove directory
+move back to previous directory
