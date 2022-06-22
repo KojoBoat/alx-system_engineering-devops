@@ -7,3 +7,4 @@ script to list contents of a file in long format including hidden files and nume
 script to create directory in tmp
 script to move betty to new directory
 script to remove betty file
+script to remove directory
