@@ -27,3 +27,5 @@ check file type
 create symbolic link to /bin/ls
 
 copy all html files to parent directory
+
+script to clean emacs duplicate files ending in ~
