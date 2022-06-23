@@ -4,3 +4,4 @@
 3 - change file ownership to betty
 4 - create hello file
 5 - add execute permissions to owner of file
+6 - add multiple permissions to the owner, group and all other users
