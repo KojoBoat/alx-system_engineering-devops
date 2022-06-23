@@ -3,3 +3,4 @@
 2 - print all groups user is a part of
 3 - change file ownership to betty
 4 - create hello file
+5 - add execute permissions to owner of file
