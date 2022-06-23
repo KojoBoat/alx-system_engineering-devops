@@ -9,3 +9,4 @@
 8 - add permissions to all but user and owner of the hello file
 9 - John Doe
 10 - Mirror modes
+11 - Directoies permissions
