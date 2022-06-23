@@ -10,3 +10,4 @@
 9 - John Doe
 10 - Mirror modes
 11 - Directoies permissions
+12 - my_dir permission
