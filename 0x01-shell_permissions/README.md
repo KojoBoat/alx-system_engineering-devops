@@ -6,3 +6,4 @@
 5 - add execute permissions to owner of file
 6 - add multiple permissions to the owner, group and all other users
 7 - add permissions for everybody
+8 - add permissions to all but user and owner of the hello file
