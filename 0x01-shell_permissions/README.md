@@ -2,3 +2,4 @@
 1 - script to print username of current user
 2 - print all groups user is a part of
 3 - change file ownership to betty
+4 - create hello file
