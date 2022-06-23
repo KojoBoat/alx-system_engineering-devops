@@ -31,3 +31,5 @@ copy all html files to parent directory
 script to clean emacs duplicate files ending in ~
 
 nested directories
+
+move files beginning with uppercase letters
