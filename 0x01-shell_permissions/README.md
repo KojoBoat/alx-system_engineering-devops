@@ -13,3 +13,4 @@
 12 - my_dir permission
 14 - change owner and group owner
 15 - change owner and group owner of symbolic link file
+16 - change owner if only a user owns the file
