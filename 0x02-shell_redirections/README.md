@@ -9,3 +9,5 @@ shell redirection
 9 - save current state of directory
 10 - duplicate last line
 11 - delete files recursively
+12 - find recurssive directories
+13 - 10 newest files
