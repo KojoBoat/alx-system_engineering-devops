@@ -11,3 +11,5 @@ shell redirection
 11 - delete files recursively
 12 - find recurssive directories
 13 - 10 newest files
+14 - find unique inputs
+15 - display lines containing root in /etc/passwd
