@@ -15,5 +15,7 @@ shell redirection
 15 - display lines containing root in /etc/passwd
 16 - display number of lines containing bin in /etc/passwd
 17 - display lines containing root in /etc/passwd and 3 lines after them
-question 18
+18 - question 18 
 19 - Letter only
+20 - replace all characters
+21 - script to remove all letters c and C
