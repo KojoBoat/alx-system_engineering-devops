@@ -5,3 +5,7 @@ shell redirection
 5 - print last 10 lines for /etc/passwd
 6 - print first 10 lines
 7 - print 3rd line of a file
+8 - create filename with special symbols
+9 - save current state of directory
+10 - duplicate last line
+11 - delete files recursively
