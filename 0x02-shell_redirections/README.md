@@ -4,3 +4,4 @@ shell redirection
 4 - list multiple contents
 5 - print last 10 lines for /etc/passwd
 6 - print first 10 lines
+7 - print 3rd line of a file
