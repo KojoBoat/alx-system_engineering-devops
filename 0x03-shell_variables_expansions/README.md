@@ -5,3 +5,4 @@
 5 - print local variables, environment variables and function
 6 - script to create a local variable
 7 - script to create a global variable
+8 - perform arithmetic
