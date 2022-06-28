@@ -9,3 +9,4 @@
 9 - perform division arithmetic
 10 - breath to the power of love
 11 - binary to decimal
+12 - script that prints all possible combinations of two letters except oo
