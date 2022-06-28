@@ -8,3 +8,4 @@
 8 - perform arithmetic
 9 - perform division arithmetic
 10 - breath to the power of love
+11 - binary to decimal
